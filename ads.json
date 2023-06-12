@@ -1,1 +1,16 @@
-{}
+{
+    "passwurd": {
+        "projectName": "passwurd",
+        "description": "behavioural biometrics",
+        "type": "community",
+        "author": "maduvena",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/maduvena/awesome-markdown-editors",
+        "githubUri": "https://github.com/maduvena/awesome-markdown-editors",
+        "license": "MIT",
+        "lastUpdated": "1686559368266",
+        "tags": [
+            "authentication"
+        ]
+    }
+}
